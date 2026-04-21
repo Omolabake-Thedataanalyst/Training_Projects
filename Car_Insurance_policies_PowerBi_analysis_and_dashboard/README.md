@@ -1,7 +1,7 @@
 # 🚗📊 Insurance Claims & Risk Analysis: A Strategic Data Perspective
 
 ## Executive Summary
-This project analyzes a comprehensive dataset of over 37,500 insurance policies to evaluate business performance and customer risk profiles. The analysis reveals a state of Risk Uniformity, where claim frequency remains consistent at ~51% across most demographics, despite varying total volumes. The core finding identifies that 72.4% of the portfolio drives zero claims, representing the primary engine of business profitability.
+This project analyzes a comprehensive dataset of over **37,500** insurance policies to evaluate business performance and customer risk profiles. The analysis reveals a state of Risk Uniformity, where claim frequency remains consistent at ~51% across most demographics, despite varying total volumes. The core finding identifies that 72.4% of the portfolio drives zero claims, representing the primary engine of business profitability.
 
 ## Business Problem
 
