@@ -3,7 +3,9 @@
 ## Executive Summary
 This project analyzes a comprehensive dataset of over **37,500** insurance policies to evaluate business performance and customer risk profiles. The analysis reveals a state of risk uniformity, where claim frequency remains consistent at **~51%** across most demographics. Despite differences in total claim volumes, this suggests it is more of a **“volume game”** than a **“who game.”**. The core finding identifies that **72.4%** of the portfolio drives **zero claims**, representing the primary engine of business profitability.
 
-![Car Insurance Dashboard Overview](Car_Insurance_policies_PowerBi_analysis_and_dashboard/Car_Insurance_policies_dashboard_overview_screenshot.jpeg)
+![Car Insurance Dashboard Overview]<p align="center">
+  <img src="Car_Insurance_policies_PowerBi_analysis_and_dashboard/Car_Insurance_policies_dashboard_overview_screenshot.jpeg" width="100%">
+</p>
 
 ## Business Problem
 
